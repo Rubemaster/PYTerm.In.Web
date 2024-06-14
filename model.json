@@ -11,9 +11,9 @@
                     {
                         "class_name": "InputLayer",
                         "config": {
-                            "batch_input_shape": [None, 512],
+                            "batch_input_shape": [none, 512],
                             "dtype": "float32",
-                            "sparse": False,
+                            "sparse": false,
                             "name": "input_1"
                         }
                     },
@@ -21,7 +21,7 @@
                         "class_name": "TFAlbertMainLayer",
                         "config": {
                             "name": "albert",
-                            "trainable": True,
+                            "trainable": true,
                             "dtype": "float32",
                             "embedding_size": 128,
                             "hidden_size": 768,
