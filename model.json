@@ -38,7 +38,7 @@
                        "trainable":true,
                        "batch_input_shape":[
                           null,
-                          512
+                          42
                        ],
                        "dtype":"float32"
                     }
