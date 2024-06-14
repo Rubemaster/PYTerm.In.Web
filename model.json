@@ -11,7 +11,7 @@
                     {
                         "class_name": "InputLayer",
                         "config": {
-                            "batch_input_shape": [none, 512],
+                            "batch_input_shape": [null, 512],
                             "dtype": "float32",
                             "sparse": false,
                             "name": "input_1"
